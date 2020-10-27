@@ -1,0 +1,42 @@
+* {
+    font-family: 'Proxima Nova';
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: 100%;
+    display: flex;
+}
+h2{
+    width: 100%;
+    display: flex;
+}
+
+section {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.color_container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.color_box {
+    display: flex;
+    width: 30%;
+    height: auto;
+}
+
+.navy {
+    background-color: rgb(0, 0, 48);
+    color: white;
+}
+
+.colors {
+    background-color: rgb(207, 207, 207);
+}
